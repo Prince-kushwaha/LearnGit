@@ -1,3 +1,4 @@
 for(i=0;i<n;i++)
 syso(i)
 this is prince
+this is satyapal
